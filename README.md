@@ -19,3 +19,6 @@ Mais controle sobre quantidade de itens
 Possibilita testes avançados
 
 Pedras ILIMITADAS!
+
+
+CODIGO FONTE COMIITADO EM REPOSITORIO PRIVADO
