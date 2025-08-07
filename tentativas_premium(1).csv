@@ -1,0 +1,6 @@
+Data/Hora,Item,Pedra,Refino Antes,Refino Depois,Resultado
+2025-08-07 03:55:28,Armadura,PDI,0,1,Sucesso
+2025-08-07 03:55:28,Armadura,PDI,1,0,Falha
+2025-08-07 03:55:29,Armadura,PDI,0,1,Sucesso
+2025-08-07 03:55:29,Armadura,PDI,1,2,Sucesso
+2025-08-07 03:55:30,Armadura,PDI,2,3,Sucesso
