@@ -26,7 +26,8 @@ Pedras ILIMITADAS!
 CODIGO FONTE COMIITADO EM REPOSITORIO PRIVADO
 
 
-Grau de Refino	PedraImortalItem.png Apenas com a Pedra Imortal	Pedra do Céu.pngCom a Pedra do Céu	Pedra Maligna.pngCom a Pedra Maligna	Pedra do Céu e da Terra.png Com a Pedra do Céu e da Terra
+📊 Tabela de Probabilidades de Refino
+Grau de Refino	Somente Imortal	 Com Pedra do Céu Com Pedra Maligna	 Pedra Céu e Terra
 +1	50%	65%	53.5%	100%
 +2	30%	45%	33.5%	25%
 +3	30%	45%	33.5%	10%
