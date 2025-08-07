@@ -24,3 +24,18 @@ Pedras ILIMITADAS!
 
 
 CODIGO FONTE COMIITADO EM REPOSITORIO PRIVADO
+
+
+Grau de Refino	PedraImortalItem.png Apenas com a Pedra Imortal	Pedra do Céu.pngCom a Pedra do Céu	Pedra Maligna.pngCom a Pedra Maligna	Pedra do Céu e da Terra.png Com a Pedra do Céu e da Terra
++1	50%	65%	53.5%	100%
++2	30%	45%	33.5%	25%
++3	30%	45%	33.5%	10%
++4	30%	45%	33.5%	4%
++5	30%	45%	33.5%	1.67%
++6	30%	45%	33.5%	0.77%
++7	30%	45%	33.5%	0.47%
++8	30%	45%	33.5%	0.25%
++9	25%	40%	28.5%	0.13%
++10	20%	35%	23.5%	0.07%
++11	12%	27%	15.5%	0.04%
++12	5%	20%	8.5%	0.02%
